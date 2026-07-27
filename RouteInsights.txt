@@ -1,0 +1,14 @@
+ROUTE INSIGHTS
+
+-   The analysis identifies the most profitable flight routes based on
+    total revenue and profit.
+-   Some routes generate high revenue but also have high operational
+    costs, reducing overall profit.
+-   Monthly profit analysis helps identify seasonal demand patterns and
+    peak business periods.
+-   Aircraft utilisation and seat occupancy directly impact route
+    profitability.
+-   Route-wise analysis helps management optimise flight operations and
+    improve resource allocation.
+-   Interactive filters allow detailed analysis by route, aircraft type,
+    and travel month.
