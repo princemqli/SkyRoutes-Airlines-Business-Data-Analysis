@@ -103,6 +103,27 @@ The dashboard includes the following visualisations:
   - Aircraft Type
   - Flight Month
   - Route Code
+ 
+---
+
+  ## 📸 Dashboard Preview
+
+The following dashboard was developed in **Power BI Desktop** to provide an interactive analysis of airline route performance. It presents key business metrics, profitability trends, operational costs, seat occupancy, and route-wise insights through dynamic visualizations.
+
+### Dashboard Screenshot
+
+<img width="1710" height="967" alt="Screenshot 2026-07-27 at 5 56 41 PM" src="https://github.com/user-attachments/assets/dd6c032e-8ec8-40ed-8d40-c9241f94e3a2" />
+
+
+### Dashboard Highlights
+
+- 📊 KPI Cards for Total Revenue, Total Cost, Total Profit, and Occupancy Rate.
+- 📈 Monthly Profit Trend Analysis.
+- 📉 Top 10 Most Profitable Routes.
+- 💰 Revenue vs Operational Cost Comparison.
+- 🍩 Seat Occupancy Analysis.
+- 🗺️ Route Performance Visualization.
+- 🎛️ Interactive Filters for Aircraft Type, Flight Month, and Route Code.
 
 ---
 
