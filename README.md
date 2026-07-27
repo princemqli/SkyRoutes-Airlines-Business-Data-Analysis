@@ -1,8 +1,8 @@
-# ✈️ SkyRoutes Airlines – Business-Oriented Data Analysis
+#  SkyRoutes Airlines – Business-Oriented Data Analysis
 
-![Dashboard](Dashboard.png)
 
-## 📖 Project Overview
+
+##  Project Overview
 
 The **SkyRoutes Airlines – Business-Oriented Data Analysis** project is an end-to-end Business Intelligence solution developed using **MySQL Workbench** and **Microsoft Power BI**. The project focuses on analysing airline operational data to identify profitable routes, monitor operational costs, analyse seat occupancy, and evaluate monthly business performance.
 
@@ -10,7 +10,7 @@ The primary objective of this project is to demonstrate how SQL and Power BI can
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Analyse airline operational performance.
 - Identify the most profitable and least profitable flight routes.
@@ -24,7 +24,7 @@ The primary objective of this project is to demonstrate how SQL and Power BI can
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -35,7 +35,7 @@ The primary objective of this project is to demonstrate how SQL and Power BI can
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The project dataset contains airline operational records.
 
@@ -57,7 +57,7 @@ The project dataset contains airline operational records.
 
 ---
 
-# 🗄️ Database Implementation
+#  Database Implementation
 
 The project database was created in **MySQL Workbench**.
 
@@ -83,7 +83,7 @@ AirlineRoutes
 
 ---
 
-# 💻 SQL Analysis
+#  SQL Analysis
 
 The following SQL queries were implemented.
 
@@ -110,7 +110,7 @@ Revenue Per Minute Analysis
 
 ---
 
-# 📈 Power BI Dashboard
+#  Power BI Dashboard
 
 The dashboard was designed using Microsoft Power BI.
 
@@ -119,8 +119,8 @@ It provides interactive visualisations for airline performance analysis.
 ---
 
 ## Dashboard Preview
+<img width="1710" height="967" alt="Screenshot 2026-07-27 at 5 56 41 PM" src="https://github.com/user-attachments/assets/f16027cf-125e-448d-84ae-7c7887086e63" />
 
-![Dashboard](Dashboard.png)
 
 ---
 
@@ -149,7 +149,7 @@ It provides interactive visualisations for airline performance analysis.
 
 ---
 
-# 💡 Business Insights
+#  Business Insights
 
 - Top-performing routes contribute significantly to overall profitability.
 - Some routes generate high revenue but incur high operational costs.
@@ -160,7 +160,7 @@ It provides interactive visualisations for airline performance analysis.
 
 ---
 
-# 📊 Project Workflow
+#  Project Workflow
 
 ```text
 CSV Dataset
@@ -183,24 +183,7 @@ Business Insights
 
 ---
 
-# 📁 Repository Structure
-
-```text
-SkyRoutes-Airlines-Business-Data-Analysis/
-│
-├── AirlineRoutesData.csv
-├── SkyRoutesAnalysis.sql
-├── RouteProfitDashboard.pbix
-├── Dashboard.png
-├── BusinessInsights.txt
-├── RouteInsights.txt
-├── README.md
-└── LICENSE
-```
-
----
-
-# 🚀 Project Outcome
+#  Project Outcome
 
 This project successfully demonstrates the practical implementation of SQL and Power BI for airline business analytics.
 
@@ -208,7 +191,7 @@ The dashboard provides an effective solution for monitoring operational performa
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Real-time Database Connectivity
 - Live Dashboard Refresh
@@ -219,25 +202,7 @@ The dashboard provides an effective solution for monitoring operational performa
 
 ---
 
-# 👨‍💻 Author
-
-**Prince**
-
-**Course:** Bachelor of Computer Applications (BCA)
-
-**Specialization:** Data Science
-
-**University:** Indus University
-
----
-
-# 📄 License
-
-This project has been developed for academic and educational purposes as part of the BCA curriculum at Indus University.
-
----
-
-# ⭐ Thank You
+#  Thank You
 
 Thank you for visiting this repository.
 
