@@ -1,0 +1,13 @@
+BUSINESS INSIGHTS
+
+-   Top 10 flight routes contribute the highest share of overall profit.
+-   Revenue and operational costs vary across different routes,
+    highlighting the importance of cost management.
+-   Monthly profit trends indicate seasonal fluctuations in airline
+    demand and business performance.
+-   Higher seat occupancy generally results in better operational
+    efficiency and increased profitability.
+-   International routes generate higher revenue compared to most
+    domestic routes.
+-   The dashboard enables management to monitor performance, identify
+    profitable routes, and support data-driven business decisions.
