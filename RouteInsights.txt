@@ -1,4 +1,4 @@
-# ROUTE INSIGHTS
+ ROUTE INSIGHTS
 
 -   The analysis identifies the most profitable flight routes based on
     total revenue and profit.
