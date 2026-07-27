@@ -206,4 +206,4 @@ The dashboard provides an effective solution for monitoring operational performa
 
 Thank you for visiting this repository.
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+If you found this project useful, please consider giving it a  on GitHub.
