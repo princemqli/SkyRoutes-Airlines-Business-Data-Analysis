@@ -1,6 +1,6 @@
-# ✈️ SkyRoutes Airlines – Business-Oriented Data Analysis
+#  SkyRoutes Airlines – Business-Oriented Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 The **SkyRoutes Airlines Business-Oriented Data Analysis** project focuses on analysing airline operational and financial performance using **MySQL** and **Power BI**. The objective is to identify profitable routes, monitor operational costs, evaluate seat occupancy, and analyse monthly business trends through an interactive dashboard.
 
@@ -8,7 +8,7 @@ This project demonstrates how business intelligence and data analytics can suppo
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyse airline route performance.
 - Identify the most profitable and loss-making routes.
@@ -19,7 +19,7 @@ This project demonstrates how business intelligence and data analytics can suppo
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **MySQL Workbench**
 - **Power BI Desktop**
@@ -28,7 +28,7 @@ This project demonstrates how business intelligence and data analytics can suppo
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains airline flight records with the following attributes:
 
@@ -48,7 +48,7 @@ The dataset contains airline flight records with the following attributes:
 
 ---
 
-## 🗄️ Database Operations
+##  Database Operations
 
 The following database operations were performed using MySQL:
 
@@ -60,7 +60,7 @@ The following database operations were performed using MySQL:
 
 ---
 
-## 📊 SQL Analysis
+##  SQL Analysis
 
 The following SQL queries were executed:
 
@@ -74,7 +74,7 @@ The following SQL queries were executed:
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 The dashboard includes the following visualisations:
 
@@ -106,7 +106,7 @@ The dashboard includes the following visualisations:
  
 ---
 
-  ## 📸 Dashboard Preview
+  ##  Dashboard Preview
 
 The following dashboard was developed in **Power BI Desktop** to provide an interactive analysis of airline route performance. It presents key business metrics, profitability trends, operational costs, seat occupancy, and route-wise insights through dynamic visualizations.
 
@@ -117,17 +117,17 @@ The following dashboard was developed in **Power BI Desktop** to provide an inte
 
 ### Dashboard Highlights
 
-- 📊 KPI Cards for Total Revenue, Total Cost, Total Profit, and Occupancy Rate.
-- 📈 Monthly Profit Trend Analysis.
-- 📉 Top 10 Most Profitable Routes.
-- 💰 Revenue vs Operational Cost Comparison.
-- 🍩 Seat Occupancy Analysis.
-- 🗺️ Route Performance Visualization.
-- 🎛️ Interactive Filters for Aircraft Type, Flight Month, and Route Code.
+-  KPI Cards for Total Revenue, Total Cost, Total Profit, and Occupancy Rate.
+-  Monthly Profit Trend Analysis.
+-  Top 10 Most Profitable Routes.
+-  Revenue vs Operational Cost Comparison.
+-  Seat Occupancy Analysis.
+-  Route Performance Visualization.
+-  Interactive Filters for Aircraft Type, Flight Month, and Route Code.
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 
 - Identified the highest-performing airline routes.
 - Compared operational costs against revenue.
@@ -138,37 +138,12 @@ The following dashboard was developed in **Power BI Desktop** to provide an inte
 
 ---
 
-## 📁 Repository Structure
+##  Project Outcome
 
-```
-SkyRoutes-Airlines-Business-Data-Analysis/
-│
-├── AirlineRoutesData.csv
-├── SkyRoutesAnalysis.sql
-├── RouteProfitDashboard.pbix
-├── BusinessInsights.txt
-├── RouteInsights.txt
-└── README.md
-```
+This project successfully demonstrates the use of SQL and Power BI to transform raw airline operational data into meaningful business insights. The interactive dashboard helps management monitor key performance indicators, evaluate route profitability, optimise operational efficiency, and make informed business decisions
 
 ---
 
-## 🚀 Project Outcome
-
-This project successfully demonstrates the use of SQL and Power BI to transform raw airline operational data into meaningful business insights. The interactive dashboard helps management monitor key performance indicators, evaluate route profitability, optimise operational efficiency, and make informed business decisions.
-
----
-
-## 👨‍🎓 Author
-
-**Prince**
-
-**Course:** Bachelor of Computer Applications (BCA)
-
-**University:** Indus University
-
----
-
-## ⭐ Thank You
+##  Thank You
 
 Thank you for reviewing this project.
